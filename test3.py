@@ -4,3 +4,4 @@ for i in name:
         print(i, end = "")
 
 #commit this to other computer
+#commit it
