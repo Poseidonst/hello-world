@@ -3,3 +3,4 @@ for i in name:
     if i not in "AEOUI":
         print(i, end = "")
 #This is from here
+#pc
